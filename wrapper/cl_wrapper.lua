@@ -96,3 +96,11 @@ end
 function Wrapper:RemoveBlip(id)
     RemoveBlip(Wrapper.blip[id])
 end
+
+function Wrapper:LoadModel(model) -- Load Model
+    local modelHash = model
+    RequestModel(modelHash)
+    while not HasModelLoaded(modelHash) do
+      Wait(0)
+    end
+end
