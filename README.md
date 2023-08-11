@@ -4,5 +4,9 @@
  
 ![skydive](https://github.com/BuddyNotFound/bbv_skydive/assets/74051918/40c1bf57-033a-41d6-872a-5353323d036b)
 
-Preview : https://streamable.com/s7cmhz
-Discord : https://discord.bbv.world
+
+Very simple skydiving script I made because I was bored. Its standalone (works with any framework), for target it uses OX/QB/BT target changeable from the config.
+
+> Preview : https://streamable.com/s7cmhz
+
+> Discord : https://discord.bbv.world
