@@ -1,12 +1,7 @@
 Config = {}
 Config.Debug = false
 
-QBCore = exports['qb-core']:GetCoreObject()  -- uncomment if you use QBCore
--- ESX = exports["es_extended"]:getSharedObject() -- uncomment if you use ESX
-
-
 Config.Settings = {
-	Framework = "QB", -- QB/ESX/ST
 	Target = "OX" -- QB/OX/BT
 }
 
